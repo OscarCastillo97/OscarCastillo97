@@ -9,4 +9,4 @@
 - ⚡ Streamer Famoso en proceso 
 
 ## Horario
-![](Horario.png)
+![](Horario.PNG)
